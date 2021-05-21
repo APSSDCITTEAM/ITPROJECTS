@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+	<!-- <typeAliases>
+		<typeAlias alias="HelpLineModel" type="com.helpline.Model.HelpLineModel" />
+	</typeAliases>
+
+	<mappers>
+		<mapper resource="com/helpline/HelpLine-MyBatis.xml" />
+	</mappers> -->
+
+</configuration>                                                     
