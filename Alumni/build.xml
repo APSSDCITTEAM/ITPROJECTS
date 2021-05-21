@@ -9,7 +9,7 @@
 			<classes dir="web/WEB-INF/classes" />
 		</war>       
  
-		<copy todir="C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps" flatten="true">
+		<copy todir="E:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps" flatten="true">
 			<resources>
 				<file file="warfile/alumni.war" />                
 			</resources>                                
